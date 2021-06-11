@@ -1,0 +1,4 @@
+1.8 Toyota 150 Camry
+2.5 MercedesBenz 150 AClass
+1.5 Kia 150 Optima
+0.8 Honda 141 Civic
